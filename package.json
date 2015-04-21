@@ -1,0 +1,35 @@
+{
+  "name": "hubot-rickowens",
+  "description": "A Rick Owens script for hubot",
+  "version": "1.0.1",
+  "author": "Spencer Pope",
+  "license": "MIT",
+  "keywords": [
+    "hubot",
+    "hubot-scripts"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/spenceropope/hubot-rickowens.git"
+  },
+  "bugs": {
+    "url": "https://github.com/spenceropope/hubot-rickowens/issues"
+  },
+  "dependencies": {
+    "coffee-script": "~1.6"
+  },
+  "devDependencies": {
+    "mocha": "*",
+    "chai": "*",
+    "sinon-chai": "*",
+    "sinon": "*"
+  },
+  "main": "index.coffee",
+  "scripts": {
+    "test": "script/test"
+  },
+  "homepage": "https://github.com/spenceropope/hubot-rickowens",
+  "directories": {
+    "test": "test"
+  }
+}
